@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "./"
+    "url": "https://github.com/mfressdorf/shipit-test.git"
   },
   "devDependencies": {
     "shipit-cli": "^1.4.0",
