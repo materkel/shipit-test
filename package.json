@@ -1,0 +1,19 @@
+{
+  "name": "shipit-deploy-test",
+  "version": "0.0.0",
+  "description": "Shipit deploy test",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "./"
+  },
+  "devDependencies": {
+    "shipit-cli": "^1.4.0",
+    "shipit-deploy": "^2.0.0"
+  }
+}
